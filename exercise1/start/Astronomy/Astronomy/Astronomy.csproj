@@ -49,6 +49,7 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	  <None Remove="Resources\Images\menu.png" />
 	  <None Remove="Resources\Images\moon.png" />
 	  <None Remove="Resources\Images\question.png" />
 	  <None Remove="Resources\Images\sun.png" />
