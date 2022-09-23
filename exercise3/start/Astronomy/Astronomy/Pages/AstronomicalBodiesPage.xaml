@@ -8,6 +8,7 @@
             <Style TargetType="Button">
                 <Setter Property="FontSize" Value="100" />
                 <Setter Property="BorderColor" Value="DarkGray" />
+                <Setter Property="Margin" Value="10"/>
             </Style>
             <Style TargetType="Label">
                 <Setter Property="HorizontalOptions" Value="Center" />
